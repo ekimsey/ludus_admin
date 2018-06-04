@@ -27,7 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # =======================================================================
 
 import globals
-import logger
+from logger import logger
 from menu_system import menu_manager
 from database import librarydb
 from ludus_menus.movie_select import MovieSelect

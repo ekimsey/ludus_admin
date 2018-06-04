@@ -28,7 +28,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import re
 import globals
-import logger
+from logger import logger
 from menu_system import menu_manager
 from menu_system.menu_types.text_entry import TextEntry
 from ludus_menus.format_select import FormatSelect

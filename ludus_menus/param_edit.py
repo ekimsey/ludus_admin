@@ -28,7 +28,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import re
 import globals
-import logger
+from logger import logger
 from menu_system.menu_types.text_entry import TextEntry
 from movie import librarydb_format
 from movie import moviedb_genre

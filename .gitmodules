@@ -1,3 +1,6 @@
 [submodule "menu_system"]
 	path = menu_system
 	url = git@gitlab.com:ekimsey/menu_system.git
+[submodule "logger"]
+	path = logger
+	url = git@gitlab.com:ekimsey/logger.git

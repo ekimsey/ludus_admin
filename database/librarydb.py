@@ -27,7 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # =======================================================================
 
 import sqlite3
-import logger
+from logger import logger
 import globals
 from movie.librarydb_movie import LibraryDBMovie
 

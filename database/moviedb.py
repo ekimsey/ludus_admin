@@ -30,7 +30,7 @@ import re
 import urllib.request
 from urllib.error import HTTPError
 from urllib.error import URLError
-import logger
+from logger import logger
 import globals
 from movie.moviedb_movie import MovieDBMovie
 

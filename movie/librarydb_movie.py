@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # python_version  :3.5+
 # =======================================================================
 
-import logger
+from logger import logger
 from movie import moviedb_genre
 from movie import librarydb_format
 from movie import librarydb_status

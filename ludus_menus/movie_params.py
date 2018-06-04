@@ -28,7 +28,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 from typing import Union
 import globals
-import logger
+from logger import logger
 from menu_system import menu_manager
 from menu_system.menu_types.status_message import StatusMessage
 from menu_system.menu_types.option_select import OptionSelect
