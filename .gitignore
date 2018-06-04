@@ -1,0 +1,16 @@
+# Python cache files
+*.pyc
+__pycache__
+
+# sqlite database files
+*.db
+
+# MovieDB API Key
+api_key.txt
+
+#Misc
+logs
+.idea
+*.dia~
+*.sublime-build
+*.autosave
