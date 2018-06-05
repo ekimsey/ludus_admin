@@ -1,0 +1,6 @@
+v1.0.0 (06-04-2018):
+    * Basic administration of Ludus personal movie database.
+        - Add movies by searching the MovieDB or enter them manually.
+        - Search personal database by name, description, genre, etc.
+        - Edit all personal database parameters on a per-title basis.
+    * Integration with MovieDB for auto-filling most personal database parameters.
